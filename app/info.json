@@ -1,0 +1,110 @@
+[
+  {
+    "src": "/assets/images/1.jpg",
+    "title": "Title1",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/2.jpg",
+    "title": "Title2",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/3.jpg",
+    "title": "Title3",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+    {
+    "src": "/assets/images/4.jpg",
+    "title": "Title4",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/5.jpg",
+    "title": "Title5",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/6.jpg",
+    "title": "Title6",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/7.jpg",
+    "title": "Title7",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/8.jpg",
+    "title": "Title8",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+    {
+    "src": "/assets/images/9.jpg",
+    "title": "Title9",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+    {
+    "src": "/assets/images/10.jpg",
+    "title": "Title10",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/11.jpg",
+    "title": "Title11",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  },
+  {
+    "src": "/assets/images/12.jpg",
+    "title": "Title12",
+    "href": "link",
+    "size": "10x10",
+    "technique": "acrylic on canvas",
+    "type": "painting",
+    "class": "unique-class"
+  }
+]

@@ -28,3 +28,11 @@
   content: "";
   padding: 0;
 }
+
+.portfolio-item {
+  margin: 20px;
+}
+
+.portfolio-item img {
+  max-width: 100%;
+}
